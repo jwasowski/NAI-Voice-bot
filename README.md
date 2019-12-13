@@ -28,6 +28,7 @@ Bot recognizes three questions:
 | `What is best in life?`  | 
 
 and there are two keywords (commands) to shutdown script:
+
 | Keyword |
 | ------------- | 
 | `Exit`  |
