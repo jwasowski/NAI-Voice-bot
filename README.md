@@ -9,6 +9,7 @@ You can interact with bot by using you microphone.  <br />
 ```
 Anaconda (Python 3.7) or Python 3.7
 Python IDE (for development)
+Windows 10 (script is setup to use built in speech engine)
 Microphone
 Dependencies:
 speech_recognition package
