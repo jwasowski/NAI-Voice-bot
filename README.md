@@ -19,7 +19,8 @@ wikipedia package
 ```
 
 ### Questions and commands
-Bot recognizes three questions:
+
+Bot recognizes three spoken questions:
 
 | Questions |
 | ------------- | 
@@ -27,7 +28,7 @@ Bot recognizes three questions:
 | `How tall is president of Poland?`  | 
 | `What is best in life?`  | 
 
-and there are two keywords (commands) to shutdown script:
+and there are two spoken keywords (commands) to shutdown script:
 
 | Keyword |
 | ------------- | 
